@@ -7,7 +7,7 @@ package helloworld;
 
 /**
  *
- * @author 92019337
+ * @author Callum Bartle 92019337
  */
 public class HelloWorld {
 
@@ -16,7 +16,7 @@ public class HelloWorld {
      */
     public static void main(String[] args) {
         System.out.println("Hello World");
-    }//Testing G
-   
-    
+    }
+
+    //Hello
 }
